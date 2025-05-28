@@ -1,5 +1,0 @@
-ccxt
-requests
-flask
-python-dotenv
-schedule
